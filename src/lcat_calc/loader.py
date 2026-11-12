@@ -1,3 +1,7 @@
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/lcat_calc#license.
+"""
 from functools import lru_cache
 from importlib.resources import files
 from pathlib import Path

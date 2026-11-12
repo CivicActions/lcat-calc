@@ -1,3 +1,7 @@
+"""
+Copyright 2019-2026 CivicActions, Inc. See the README file at the top-level
+directory of this distribution and at https://github.com/CivicActions/lcat_calc#license.
+"""
 from pathlib import Path
 
 from lcat_calc.loader import (
